@@ -1,0 +1,5 @@
+1-
+En PGP y GnuPG el sistema de clave pública es probablemente la parte más débil de la combinación.
+2-El cifrado simétrico se emplea cuando es necesario transferir una cantidad grande de datos.
+3- En general, un ciclo de desarrollo seguro implica la integración de pruebas de seguridad en los procesos existentes
+
